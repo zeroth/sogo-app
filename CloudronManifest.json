@@ -9,9 +9,10 @@
   "httpPort": 3000,
   "addons": {
     "mysql": {},
-    "ldap": {}
+    "ldap": {},
+    "email": {}
   },
-  "developmentMode": false,
+  "developmentMode": true,
   "targetBoxVersion": "0.4.0",
   "manifestVersion": 1,
   "website": "http://www.sogo.nu/",
